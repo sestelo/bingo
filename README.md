@@ -29,7 +29,7 @@ check_equal_cards(cards)
 plot(cards)
 ```
 
-And the result is:
+Here is the result!
 
 ![](/img/bingo-01.png)
 
