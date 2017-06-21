@@ -1,7 +1,7 @@
 # bingo
 Generate bingo cards.
 
-Currently has built-in rectangular of 9x3 and 90 balls.
+Currently it has built-in rectangular cards of 9x3 cells and 90 balls.
 
 
 ## Installation
@@ -31,5 +31,5 @@ plot(cards)
 
 And the result is:
 
-![](img/bingo-1.pdf)
+![](img/bingo-1.png)
 
