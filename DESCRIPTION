@@ -4,8 +4,8 @@ Title: Generate bingo cards
 Version: 0.1.0
 Author: Marta Sestelo and Nora M. Villanueva
 Maintainer: Marta Sestelo <sestelo@uvigo.es>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: Currently it has built-in rectangular cards of 
+            9x3 cells and 90 balls.
 License: MIT
 Encoding: UTF-8
 LazyData: false
