@@ -31,5 +31,5 @@ plot(cards)
 
 And the result is:
 
-![](img/bingo-1.png)
+![](/img/bingo-01.png)
 
