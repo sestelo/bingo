@@ -35,5 +35,5 @@ Here is the result!
 
 
 
-Partialy based on https://github.com/jennybc/bingo.
+Partially based on https://github.com/jennybc/bingo. 
 
