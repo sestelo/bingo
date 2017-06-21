@@ -8,6 +8,8 @@ bingo(ncards, seed = NULL)
 }
 \arguments{
 \item{ncards}{number of cards}
+
+\item{seed}{Seed}
 }
 \value{
 a list with the generated cards
@@ -16,7 +18,7 @@ a list with the generated cards
 Generate n bingo cards
 }
 \examples{
-cards <- bingo(10)
+cards <- bingo(8)
 }
 \author{
 Marta Sestelo and Nora M. Villanueva

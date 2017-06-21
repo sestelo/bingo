@@ -12,7 +12,9 @@
 
 \item{dir}{directory where you want to write files}
 
-\item{pdf_base}{base of the sequential filenames for the printable bingo card
+\item{pdf_base}{base of the sequential filenames for the printable bingo card}
+
+\item{title}{title of the plot
 files}
 
 \item{...}{not used}

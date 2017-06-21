@@ -3,9 +3,11 @@
 #' @param x a \code{\link{bingo}} object containing one or more bingo cards
 #' @param dir directory where you want to write files
 #' @param pdf_base base of the sequential filenames for the printable bingo card
+#' @param title title of the plot
 #'   files
 #' @param ... not used
 #' @importFrom png readPNG
+#' @importFrom graphics abline box image mtext par rasterImage rect text
 #' @note Does not actually plot the cards to the graphics device
 #' @return Vector containing the filenames of all the generated cards
 #'   (invisibly)

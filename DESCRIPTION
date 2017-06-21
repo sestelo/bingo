@@ -6,6 +6,7 @@ Author: Marta Sestelo and Nora M. Villanueva
 Maintainer: Marta Sestelo <sestelo@uvigo.es>
 Description: Currently it has built-in rectangular cards of 
             9x3 cells and 90 balls.
+Depends: png
 License: MIT
 Encoding: UTF-8
 LazyData: false

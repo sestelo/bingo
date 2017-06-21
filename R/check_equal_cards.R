@@ -5,6 +5,8 @@
 #' @param cards list containing the generated cards
 #' @return none, only message
 #' @author Marta Sestelo
+#' @importFrom stats na.omit
+#' @importFrom utils combn
 #' @examples
 #' cards <- bingo(10)
 #' check_equal_cards(cards)

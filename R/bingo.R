@@ -1,6 +1,7 @@
 #' Generate n bingo cards
 #'
 #' @param ncards number of cards
+#' @param seed Seed
 #' @return a list with the generated cards
 #' @author Marta Sestelo and Nora M. Villanueva
 #' @examples
