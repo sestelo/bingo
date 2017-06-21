@@ -1,6 +1,6 @@
 Package: bingo
 Type: Package
-Title: Generating bingo cards
+Title: Generate bingo cards
 Version: 0.1.0
 Author: Marta Sestelo and Nora M. Villanueva
 Maintainer: Marta Sestelo <sestelo@uvigo.es>
