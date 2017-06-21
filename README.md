@@ -33,3 +33,7 @@ Here is the result!
 
 ![](/img/bingo-01.png)
 
+
+
+Partialy based on https://github.com/jennybc/bingo.
+
