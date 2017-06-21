@@ -4,7 +4,7 @@
 #' @return a list with the generated cards
 #' @author Marta Sestelo and Nora M. Villanueva
 #' @examples
-#' cards <- bingo(10)
+#' cards <- bingo(8)
 #' @export
 bingo <- function(ncards, seed = NULL){
 
