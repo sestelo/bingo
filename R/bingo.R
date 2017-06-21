@@ -8,7 +8,7 @@
 #' @export
 bingo <- function(ncards, seed = NULL){
 
-  if(is.null(seed)) set.seed(29072017)
+  if(!is.null(seed)) set.seed(seed)
 
   cards <- list()
   numbers <- matrix(NA, ncol = ncards, nrow = 15)
