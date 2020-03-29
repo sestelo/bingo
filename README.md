@@ -13,7 +13,7 @@ Install from GitHub with:
 devtools::install_github("sestelo/bingo")
 ```
 
-## Casco Vello Alto Vigo Example
+## Coronabingo Example
 
 ```{r}
 library(bingo)
@@ -31,7 +31,7 @@ plot(cards)
 
 Here is the result!
 
-![](/img/bingo-01.png)
+![](/img/bingo-02.png)
 
 
 
